@@ -1,0 +1,28 @@
+Tomash Ghz
+www.tomashg.com
+
+Ableton Live MIDI Remote Script for MIDI Fighter 3D from DJ Tech Tools
+
+-----------
+DESCRIPTION
+-----------
+
+This script creates the so called 4x4 "RED Box" and mapps it to the MF3D. The color of the clips in Ableton live are displaced on the MF3D.
+
+-----
+SETUP
+-----
+
+1. Copy the downloaded folder "MF3D_Color_Clip" into your Ableton Live's MIDI Remote Scripts folder. 
+Located in C:\Program Files (x86)\Ableton\Live x.x\Resources\MIDI Remote Scripts\ under Windos or
+\Live x.x\Live.app\Contents\App-Resources\MIDI Remote Scripts\ for Mac OSX
+
+2. Launch Ableton Live and go to Preferences. Under MIDI Sync tab select MF3D Color Clip in the Control Surface drop down list and set the 
+correct input and output MIDI ports.
+
+
+----------
+DISCLAIMER
+----------
+
+THESE FILES ARE PROVIDED AS-IS, WITHOUT ANY WARRANTY, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO FITNESS FOR ANY PARTICULAR PURPOSE.
